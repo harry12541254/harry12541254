@@ -42,16 +42,16 @@ I am passionate about **data science** and **machine learning**, with extensive 
 ## 📊 GitHub 統計
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=你的GitHub帳號&show_icons=true&theme=radical" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=你的GitHub帳號&layout=compact&theme=radical" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=harry12541254&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harry12541254&layout=compact&theme=radical" alt="Top Languages"/>
 </div>
 
 <!-- 精選專案 -->
 ## 🗂 精選專案
 
 <!-- 替換以下連結與描述為你的專案 -->
-- [**E.SUN_Credit-Card-Fraud-Detection**](https://github.com/你的GitHub帳號/專案1) - 簡短描述專案1的目的和技術堆疊。
-- [**LLM-Agent-Readmine-tracker**](https://github.com/你的GitHub帳號/專案2) - 簡短描述專案2的目的和技術堆疊。
+- [**E.SUN_Credit-Card-Fraud-Detection**](https://github.com/你的GitHub帳號/專案1) - Use Catboost model to detect fraud transcation。
+- [**LLM-Agent-Readmine-tracker**](https://github.com/你的GitHub帳號/專案2)。
 
 <!-- 聯繫方式 -->
 ## 📫 聯繫我
