@@ -1,12 +1,11 @@
 <!-- Header -->
 <div align="center">
-  <h1>👋 Hi, I'm [你的名字]</h1>
+  <h1>👋 Hi, I'm [Evan Chao]</h1>
   <h3>🔍 資料科學家 | 📊 資料分析師 | 💻 機器學習工程師</h3>
   
   <!-- 連結圖示 -->
   <p>
-    <a href="https://linkedin.com/in/你的LinkedIn" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-    <a href="https://twitter.com/你的Twitter" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
+    <a href="https://linkedin.com/in/harrychao123/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
     <a href="https://你的個人網站.com" target="_blank"><img src="https://img.shields.io/badge/Website-000000.svg?style=for-the-badge&logo=About.me&logoColor=white" alt="Website"/></a>
   </p>
 </div>
@@ -14,7 +13,7 @@
 <!-- 簡介 -->
 ## 👨‍💻 關於我
 
-我是一名熱衷於 **資料科學** 和 **機器學習** 的專業人士，擁有豐富的經驗在資料分析、預測模型建構及大數據處理方面。我致力於利用數據驅動的洞見來解決實際問題，並持續學習最新的技術和方法。
+我是一名熱衷於 **資料科學** 和 **機器學習** 的，擁有豐富的經驗在資料分析、預測模型建構及大語言模型代理人。我致力於利用數據驅動的洞見來解決實際問題，並持續學習最新的技術和方法。
 
 <!-- 技能 -->
 ## 🛠 技能
@@ -55,9 +54,8 @@
 <!-- 聯繫方式 -->
 ## 📫 聯繫我
 
-- 📧 Email: [你的Email@example.com](mailto:你的Email@example.com)
-- 🔗 [LinkedIn](https://linkedin.com/in/你的LinkedIn)
-- 🔗 [Twitter](https://twitter.com/你的Twitter)
+- 📧 Email: [你的harry12541254@gmail.com](mailto:你的Email@example.com)
+- 🔗 [LinkedIn](https://linkedin.com/in/harrychao123)
 
 <!-- 技能徽章 -->
 ## 🏆 技能徽章
