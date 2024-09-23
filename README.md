@@ -56,12 +56,12 @@ I am passionate about **data science** and **machine learning**, with extensive 
 <!-- 聯繫方式 -->
 ## 📫 Connect me
 
-- 📧 Email: [你的harry12541254@gmail.com](mailto:你的Email@example.com)
+- 📧 Email: [harry12541254@gmail.com](mailto:你的Email@example.com)
 - 🔗 [LinkedIn](https://linkedin.com/in/harrychao123)
 
 <!-- 技能徽章 -->
 ## 🏆 Badge-collection
 
 <div align="center">
-  <img src="https://github.com/harry12541254/harry12541254/blob/main/github-profile-trophy.svg" alt="trophy"/>
+  <img src="https://github.com/harry12541254/blob/main/github-profile-trophy.svg" alt="trophy"/>
 </div>
