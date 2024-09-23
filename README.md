@@ -13,7 +13,8 @@
 <!-- 簡介 -->
 ## 👨‍💻 關於我
 
-我是一名熱衷於 **資料科學** 和 **機器學習** 的，擁有豐富的經驗在資料分析、預測模型建構及大語言模型代理人。我致力於利用數據驅動的洞見來解決實際問題，並持續學習最新的技術和方法。
+I am passionate about **data science** and **machine learning**, with extensive experience in data analysis, predictive modeling, and large language model agents. I am committed to leveraging data-driven insights to solve real-world problems and continuously staying at the forefront of the latest technologies and methodologies.
+
 
 <!-- 技能 -->
 ## 🛠 技能
@@ -28,6 +29,8 @@
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=NumPy&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=TensorFlow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-333333?style=flat&logo=LangChain&logoColor=white)
 
 ### 工具與平台
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=Jupyter&logoColor=white)
