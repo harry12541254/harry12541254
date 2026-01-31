@@ -1,67 +1,54 @@
-<!-- Header -->
 <div align="center">
   <h1>👋 Hi, I'm Evan Chao</h1>
-  <h3>🔍 Data Scientist | 📊 data analyst  | 💻 Machine Learning Engineer</h3>
+  <p><strong>Data Scientist | Machine Learning Engineer | LLM Specialist</strong></p>
   
-  <!-- 連結圖示 -->
   <p>
     <a href="https://linkedin.com/in/harrychao123/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-    <a href="https://你的個人網站.com" target="_blank"><img src="https://img.shields.io/badge/Website-000000.svg?style=for-the-badge&logo=About.me&logoColor=white" alt="Website"/></a>
+    <a href="mailto:harry12541254@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   </p>
 </div>
 
-<!-- 簡介 -->
-## 👨‍💻 About me
+---
 
-I am passionate about **data science** and **machine learning**, with extensive experience in data analysis, predictive modeling, and large language model agents. I am committed to leveraging data-driven insights to solve real-world problems and continuously staying at the forefront of the latest technologies and methodologies.
+## 👨‍💻 About Me
 
+I am a **Data Scientist** and **ML Engineer** dedicated to transforming complex data into actionable insights. My expertise spans **predictive modeling**, **deep learning**, and the development of **LLM Agents**. I strive to build scalable, data-driven solutions that solve real-world challenges.
 
-<!-- 技能 -->
-## 🛠 Skill
+---
 
-### Program
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=R&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=MySQL&logoColor=white)
+## 🛠 Tech Stack
 
-### Data Science and machine learning
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=Pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=NumPy&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=TensorFlow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-333333?style=flat&logo=LangChain&logoColor=white)
+| Category | Tools & Languages |
+| :--- | :--- |
+| **Languages** | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![R](https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=mysql&logoColor=white) |
+| **Data Science** | ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?logo=scikit-learn&logoColor=white) |
+| **ML / DL** | ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white) ![LangChain](https://img.shields.io/badge/-LangChain-333333?logo=langchain&logoColor=white) |
+| **DevOps & Tools**| ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white) ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white) |
 
-### tool and platform
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=Jupyter&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=Amazon%20AWS&logoColor=white)
+---
 
-<!-- 統計 -->
-## 📊 GitHub Statistics
+## 🗂 Featured Projects
+
+* 🚀 [**E.SUN Credit Card Fraud Detection**](https://github.com/harry12541254/Project-Link)
+    * Developed a high-precision fraud detection system using **CatBoost**, effectively identifying suspicious transactions.
+* 🤖 [**LLM-Agent Redmine Tracker**](https://github.com/harry12541254/Project-Link)
+    * Built an automated ticket tracking agent using LLMs to streamline project management workflows.
+
+---
+
+## 📊 GitHub Performance
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harry12541254&show_icons=true&theme=radical" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harry12541254&layout=compact&theme=radical" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=harry12541254&show_icons=true&theme=radical&rank_icon=github" height="170px" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harry12541254&layout=compact&theme=radical" height="170px" alt="Top Languages"/>
 </div>
 
-<!-- 精選專案 -->
-## 🗂 Side-Project
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=harry12541254&theme=radical&column=7&margin-w=15" alt="trophy"/>
+</div>
 
-<!-- 替換以下連結與描述為你的專案 -->
-- [**E.SUN_Credit-Card-Fraud-Detection**](https://github.com/你的GitHub帳號/專案1) - Use Catboost model to detect fraud transcation。
-- [**LLM-Agent-Readmine-tracker**](https://github.com/你的GitHub帳號/專案2)。
-
-<!-- 聯繫方式 -->
-## 📫 Connect me
-
-- 📧 Email: [harry12541254@gmail.com](mailto:你的Email@example.com)
-- 🔗 [LinkedIn](https://linkedin.com/in/harrychao123)
-
-<!-- 技能徽章 -->
-## 🏆 Badge-collection
+---
 
 <div align="center">
-  <img src="https://github.com/harry12541254/blob/main/github-profile-trophy.svg" alt="trophy"/>
+  <p>📫 <b>Let's connect!</b> Whether it's about Data Science, ML, or just a coffee chat.</p>
 </div>
